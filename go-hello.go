@@ -1,9 +1,14 @@
-package main
+package gohelo
 
 import "fmt"
 
-func Gohello() {
+//import "github.com/curtisbowden/hello-go"
+
+// public lib for Curtis
+func GoHello() {
     fmt.Println("World, Hello!")
 }
 
+func main() {
+}
 
